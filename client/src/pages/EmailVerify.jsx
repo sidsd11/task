@@ -99,7 +99,7 @@ const EmailVerify = () => {
                     </h1>
 
                     <p className='text-center text-white'>
-                        Enter the 6 digit OTP send on below email
+                        Enter the 6 digit OTP send on below email.
                     </p>
 
                     <form onSubmit={onSubmitHandler} className='bg-slate-900 p-8 rounded-lg shadow-lg w-96 text-sm'>
